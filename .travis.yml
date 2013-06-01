@@ -1,4 +1,4 @@
-lunguage: java
+language: java
 jdk:
   - openjdk6
   - openjdk7
